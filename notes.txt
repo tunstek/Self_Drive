@@ -1,0 +1,14 @@
+
+
+Determining Fitness Function:
+Could use intermittent checkpoints
+
+
+
+
+
+Save and load system:
+Saves a data array to file with the following layout:
+data[0] = x co-ordinate
+data[1] = y co-ordinate
+data[2] = "wall" / "checkpoint"
